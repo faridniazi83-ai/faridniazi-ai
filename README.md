@@ -1,4 +1,4 @@
 # faridniazi-ai
 my first github repository
 <br>
-author-farid khan
+author-farid (sami)
